@@ -1,14 +1,11 @@
-data1
-data2
-data3
-data4
-data5
-data6
-data7
-data8
-data9
-data10
-data11 dirubah
+data12
+data22
+data313
+data433
+data612
+data712213
+data9213
+data103123
 data12
 
 
